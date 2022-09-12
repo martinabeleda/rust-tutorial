@@ -40,3 +40,8 @@ An introduction to rust. My goal for this series is to introduce you to rust and
 - Immature landscape for libraries - if you need something specialized, you need to build it yourself. Slowly getting there.
 - Rapid prototyping - Rust forces you to write correct code. Highly involved type system. Forces you to deal with null conditions etc.
 
+## How can I learn it?
+
+I highly recommend the [official Rust book](https://doc.rust-lang.org/book/).
+
+[Rustlings](https://github.com/rust-lang/rustlings) is a tutorial containing beginner examples and exercises.
